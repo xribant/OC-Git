@@ -1,1 +1,4 @@
-alert("OC Git Acivité 1");
+var message = "OC Git Activité 1";
+
+alert(message);
+
